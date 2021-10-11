@@ -38,5 +38,5 @@ Idiomas y herramientas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nestrra&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats)
 
-![Nestor Raul Camacho GitHub stats](https://github-readme-stats.vercel.app/api?username=Nestrra&show_icons=true&theme=radical&hide=issues,prs)
+![Nestor Raul  GitHub stats](https://github-readme-stats.vercel.app/api?username=Nestrra&show_icons=true&theme=radical&hide=issues,prs)
 
