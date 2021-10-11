@@ -1,4 +1,4 @@
-# Hola, Soy Raul Camacho 🧑‍💻
+# Hola, Soy Raul Camacho 💻
 
 Full Stack Developer, con énfasis en Front End.
 Entusiasta, por la programación, por el aprendizaje de nuevas tecnologías y el trabajo en equipo.
