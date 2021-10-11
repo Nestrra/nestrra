@@ -21,5 +21,9 @@ Conectate conmigo:
 Idiomas y herramientas:
 [![Javavscript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/368px-Unofficial_JavaScript_logo_2.svg.png)](https://es.wikipedia.org/wiki/JavaScript)
 [![Javavscript](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/330px-React-icon.svg.png)](https://reactjs.org/)
+[![Javavscript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png)](https://es.wikipedia.org/wiki/HTML5)
+
+
+
 
 
