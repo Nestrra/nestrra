@@ -20,6 +20,6 @@ Conectate conmigo:
 
 Idiomas y herramientas:
 
-
+[![javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
