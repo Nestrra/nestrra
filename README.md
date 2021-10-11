@@ -1,5 +1,7 @@
 # Hola, Soy Raul Camacho 🧑‍💻
-Un apasionado por la tecnologia, siempre con ganas de aprender tecnologias nuevas. Actualmente estoy enfocado en el desarrollo web full stack,
+
+Full Stack Developer, con énfasis en Front End.
+Entusiasta, por la programación, por el aprendizaje de nuevas tecnologías y el trabajo en equipo.
 
 
 <img  src ="https://tvup.media/wp-content/uploads/2019/07/0_HICLyAdNSIyT0ODU.jpg">
