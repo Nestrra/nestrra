@@ -19,7 +19,6 @@ Conectate conmigo:
 [Linkedin](https://www.linkedin.com/in/nestor-raul-camacho/) 
 
 Idiomas y herramientas:
-
-[![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
+[javascript](https://cdn.hashnode.com/res/hashnode/image/upload/v1617633047925/_l1brSkzZ.jpeg)
 
 
