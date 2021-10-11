@@ -1,14 +1,19 @@
 # Hola, Soy Raul Camacho 🧑‍💻
-<img  src ="https://tvup.media/wp-content/uploads/2019/07/0_HICLyAdNSIyT0ODU.jpg">
-
 Un apasionado por la tecnologia, siempre con ganas de aprender tecnologias nuevas. Actualmente estoy enfocado en el desarrollo web full stack,
 
 
+<img  src ="https://tvup.media/wp-content/uploads/2019/07/0_HICLyAdNSIyT0ODU.jpg">
 
 
-🌱Actualmente estoy aprendiendo React Native, y reforzando Node.JS
+
+
+
+
+
 
 💬Pregúnteme sobre JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize
+
+🌱Actualmente estoy aprendiendo React Native, y reforzando Node.JS
 
 📫Cómo contactarme nestrra@gmail.com
 
