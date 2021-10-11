@@ -1,5 +1,5 @@
 
-Hola 👋Soy Bryan Pineda
+   Hola, Soy Raul Camacho 🧑‍💻
 Soy una colombiana de 28 años que ama los videojuegos y la tecnología. Actualmente estoy enfocado en el desarrollo web full stack, sistemas, metodologías AGILE, transformación digital y aprender nuevas tecnologías para explotarlas. El año pasado 2020, redescubrí mi pasión por la programación y obtuve una certificación de desarrollador web completo, quiero compartir con ustedes mis habilidades. ¡¡Bienvenido!!
 
 
