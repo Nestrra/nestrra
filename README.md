@@ -17,7 +17,7 @@ Un apasionado por la tecnologia, siempre con ganas de aprender tecnologias nueva
 
 
 Conectate conmigo:
-https://www.linkedin.com/in/nestor-raul-camacho/ 
+[Linkending](https://www.linkedin.com/in/nestor-raul-camacho/) 
 
 Idiomas y herramientas:
 
