@@ -33,6 +33,7 @@ Idiomas y herramientas:
 <code><img height="40" src ="https://www.cesarcodecrafter.com/content/images/2020/03/pm-logo-vert.jpg"></code>
 <code><img height="40" src ="http://javadesde0.com/wp-content/uploads/sass-1.jpg"></code>
 <code><img height="40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></code>
+<code><img height="40" src ="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 
 
 
